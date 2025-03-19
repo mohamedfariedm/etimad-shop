@@ -1,0 +1,31 @@
+{
+  "home": "الرئيسية",
+  "breadCrumb": "تواصل معنا",
+  "dir":"ltr",
+  "textaligh":"right",
+  "form": {
+    "firstName": "الاسم الأول",
+    "firstNamePlaceholder": "أدخل اسمك الأول",
+    "lastName": "الاسم الأخير",
+    "lastNamePlaceholder": "أدخل اسمك الأخير",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "phonePlaceholder": "+966 5XXXXXXXX",
+    "message": "الرسالة",
+    "messagePlaceholder": "اترك لنا رسالة...",
+    "submit": "إرسال",
+    "sending": "جاري الإرسال..."
+  },
+  "successMessage": "تم إرسال الرسالة بنجاح!",
+  "errorMessage": "حدث خطأ أثناء الإرسال. حاول مرة أخرى.",
+  "validation": {
+    "firstName": "الاسم الأول مطلوب",
+    "lastName": "الاسم الأخير مطلوب",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "emailInvalid": "يرجى إدخال بريد إلكتروني صالح",
+    "phoneRequired": "رقم الهاتف مطلوب",
+    "phoneInvalid": "يرجى إدخال رقم هاتف سعودي صالح",
+    "message": "الرسالة مطلوبة",
+    "noHtmlTags":"يرجى عدم استخدام علامات الكود"
+  }
+}

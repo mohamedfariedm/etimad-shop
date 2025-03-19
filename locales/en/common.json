@@ -1,0 +1,29 @@
+{
+  "footer": {
+    "complaints": "Submit a Complaint",
+    "contact_us": "Contact Us",
+    "faq": "FAQ",
+    "products": "Products",
+    "about_us": "About Us",
+    "calculate": "Calculate Your Loan",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_use": "Terms of Use",
+    "supervised_by": "Etemad is supervised by the Saudi Central Bank under license No. 52/SH/201905.",
+    "newsletter": "Newsletter",
+    "newsletter_description": "Get the latest updates on new features and product updates.",
+    "enter_email": "Enter your email",
+    "subscribe_now": "Subscribe",
+    "have_questions": "Have Questions?",
+    "call_us": "Call Us At",
+    "email_us": "Email Us At",
+    "site_links": "Site Links",
+    "copyright": "2025 ©, All rights reserved for Etemad"
+  }
+ , "menu": {
+  "home": "Home",
+  "products": "Products",
+  "about_us": "About Us",
+  "calculate_finance": "Calculate Finance",
+  "contact_us": "Contact Us"
+}
+}

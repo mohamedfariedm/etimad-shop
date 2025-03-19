@@ -1,0 +1,28 @@
+{
+  "PreHeading": "Our blog",
+  "Heading": "Insights and Trends in Financial Management",
+  "SubHeading": "Stay updated with the latest articles, tips, and insights on financial management, AI technology, and more. Our blog features expert analysis and practical advice to help you navigate the financial landscape effectively.",
+  "BlogCard": {
+    "written_by": "Written by",
+    "published_on": "Published on",
+    "tags": "Tags"
+  },
+  "tags": [
+    "View all",
+    "Forecasting",
+    "Reporting",
+    "Cashflow",
+    "Budgeting",
+    "Investments",
+    "Trends"
+  ],
+  "sortOptions": ["Recent", "Featured", "Popular"],
+  "Select_placeholder": "Sort by",
+  "published": "Published",
+  "suggestions": {
+    "PreHeading": "Latest posts",
+    "Heading": "Insights from Our Experts",
+    "SubHeading": "Explore the latest trends and tips in financial management with our expert blog posts.",
+    "cta": "View all posts"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "home": "Home",
+  "breadCrumb": "Products",
+    "buttons": {
+      "beauty": "Beauty",
+      "recruitment": "Recruitment",
+      "travel": "Travel",
+      "salati": "Salati",
+      "personal_finance": "Personal Finance",
+      "shabab_tuwaiq": "Shabab Tuwaiq"
+    },
+    "product_details": {
+      "title": "Shabab Tuwaiq Product",
+      "description": "We help you at Etemad to finance your consumer and educational expenses to support you in your university stage.",
+      "features": {
+        "title": "Product Features:",
+        "list": {
+           "first": "Financing consumer expenses",
+           "second": "Financing educational purchases",
+           "third": "Financing the payment of university and school fees"
+        }
+      },
+      "conditions": {
+        "title": "Product Financing Conditions:",
+        "list": {
+          "first": "Students accredited in government universities",
+          "second": "The applicant must be a Saudi national",
+          "third": "Minimum of one academic term and a stipend of 800 SAR",
+          "fourth": "Financing duration between 3 to 9 months",
+          "fifth": "Minimum financing of 1,500 SAR and a maximum of 4,000 SAR"
+        }
+      },
+      "max_financing": "Maximum Financing",
+      "apply_now": "Apply for Financing",
+      "amount": "SAR"
+    }
+}

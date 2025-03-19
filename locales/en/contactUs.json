@@ -1,0 +1,31 @@
+{
+  "home": "Home",
+  "breadCrumb": "Contact Us",
+  "dir":"ltr",
+  "textaligh":"left",
+  "form": {
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter your last name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "phonePlaceholder": "+966 5XXXXXXXX",
+    "message": "Message",
+    "messagePlaceholder": "Leave us a message...",
+    "submit": "Send",
+    "sending": "Sending..."
+  },
+  "successMessage": "Message sent successfully!",
+  "errorMessage": "An error occurred while sending. Please try again.",
+  "validation": {
+    "firstName": "First name is required",
+    "lastName": "Last name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email address",
+    "phoneRequired": "Phone number is required",
+    "phoneInvalid": "Please enter a valid Saudi phone number",
+    "message": "Message is required",
+    "noHtmlTags":"Please don't use code tags"
+  }
+}

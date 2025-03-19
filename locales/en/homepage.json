@@ -1,0 +1,137 @@
+{
+      "home": "Home",
+    "breadCrumb": "Products",
+  "hero": {
+    "title": "Financing that meets your needs in the simplest steps",
+    "description": "We provide you with flexible personal and business financing options, fast processing, and easy terms tailored to your needs.",
+    "more": "More",
+    "apply": "Apply for Financing",
+    "download": "Download the app now"
+  },
+  "easyWay": {
+    "title": "A fast, secure, and easy financing experience",
+    "description": "All your financial needs in one place with simple and secure steps",
+    "fast": {
+      "title": "Fast",
+      "description": "Get financing in record time"
+    },
+    "secure": {
+      "title": "Secure",
+      "description": "Your financing is protected with top security standards"
+    },
+    "easy": {
+      "title": "Easy",
+      "description": "Simple procedures and easy steps"
+    }
+  },
+  "products": {
+    "title": "Financing Products",
+    "travel": {
+      "title": "Travel",
+      "description": "Make your travel easier and better with top-selected tourism companies."
+    },
+    "tuwaiqYouth": {
+      "title": "Tuwaiq Youth",
+      "description": "We support our students in financing their school and university needs."
+    },
+    "recruitment": {
+      "title": "Recruitment",
+      "description": "We help you finance domestic worker recruitment costs with ease."
+    },
+    "personalFinance": {
+      "title": "Personal Finance",
+      "description": "We provide fast and flexible financing to cover your expenses."
+    },
+    "beauty": {
+      "title": "Beauty",
+      "description": "Finance your beauty needs and personal care expenses easily."
+    },
+    "silati": {
+      "title": "Silati",
+      "description": "Easily pay for your daily needs and purchases with our flexible services."
+    }
+  },
+  "calculate": {
+    "title": "Approximate Calculator",
+    "description": "This is an indicative calculator. You can use it to estimate your monthly installment and repayment period.",
+    "info": "Enter loan amount and duration to calculate your expected monthly installment.",
+    "loanAmount": "Loan Amount (SAR)",
+    "placeholder": "1000 SAR",
+    "duration": "Repayment Period (Months)",
+    "calculate": "Calculate Installment",
+    "monthlyInstallment": "Monthly Installment",
+    "totalAmount": "Total Amount",
+    "totalProfit": "Total Profit",
+    "currency": "SAR"
+  },
+  "aboutApp": {
+    "download": {
+      "title": "Download the App",
+      "description": "Start by downloading the app available on iOS and Android."
+    },
+    "chooseProduct": {
+      "title": "Choose a Product",
+      "description": "Select the financial product that suits your needs."
+    },
+    "calculate": {
+      "title": "Calculate Financing",
+      "description": "Use the approximate calculator to determine your monthly installment."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Etimad is a leading financial services company providing financing solutions to individuals with a highly skilled professional team and a customer-focused approach.",
+    "q1": {
+      "question": "How do I apply for financing?",
+      "answer": "Etimad Finance was founded in 2023 to provide Sharia-compliant financial solutions for individuals, following the rules and regulations issued by the Saudi Central Bank regarding micro consumer finance."
+    },
+    "q2": {
+      "question": "What are the payment methods?",
+      "answer": "Etimad Finance was founded in 2023 to provide Sharia-compliant financial solutions for individuals, following the rules and regulations issued by the Saudi Central Bank regarding micro consumer finance."
+    },
+    "q3": {
+      "question": "What is Etimad Finance?",
+      "answer": "Etimad Finance was founded in 2023 to provide Sharia-compliant financial solutions for individuals, following the rules and regulations issued by the Saudi Central Bank regarding micro consumer finance."
+    },
+    "q4": {
+      "question": "What is Etimad Finance?",
+      "answer": "Etimad Finance was founded in 2023 to provide Sharia-compliant financial solutions for individuals, following the rules and regulations issued by the Saudi Central Bank regarding micro consumer finance."
+    },
+    "q5": {
+      "question": "What is Etimad Finance?",
+      "answer": "Etimad Finance was founded in 2023 to provide Sharia-compliant financial solutions for individuals, following the rules and regulations issued by the Saudi Central Bank regarding micro consumer finance."
+    },
+    "q6": {
+      "question": "What is Etimad Finance?",
+      "answer": "Etimad Finance was founded in 2023 to provide Sharia-compliant financial solutions for individuals, following the rules and regulations issued by the Saudi Central Bank regarding micro consumer finance."
+    }
+  },
+  "numbers": {
+    "yearsInMarket": {
+      "value": "19+",
+      "description": "Years in the market"
+    },
+    "employees": {
+      "value": "+300",
+      "description": "Employees in service"
+    },
+    "branches": {
+      "value": "14",
+      "description": "Branches"
+    },
+    "customers": {
+      "value": "+500k",
+      "description": "Number of customers"
+    }
+  },
+  "tamwilk": {
+    "title": "Your Financing is on Us",
+    "description": "This text is a placeholder for an actual description that can be replaced. It has been generated by an Arabic text generator where you can create similar texts or many other options in addition to increasing the number of words generated by the application. \nIf you need more paragraphs, the Arabic text generator allows you to increase the number."
+  },
+  "certifications": {
+    "title": "Our Products Comply with Islamic Sharia Law",
+    "description1": "Providing Sharia-compliant products is one of the top priorities of Tamam Finance.",
+    "description2": "We continuously work with a team of Sharia experts specializing in Islamic finance to ensure all our services comply with Sharia principles.",
+    "description3": "Experts review and audit all transactions regularly to ensure ongoing compliance with Islamic Sharia law."
+  }
+}
