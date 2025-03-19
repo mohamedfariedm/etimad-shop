@@ -1,8 +1,11 @@
 import { notFound } from "next/navigation";
+import { unstable_noStore } from "next/cache";
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL;
 
 const fetchData = async (endpoint: string, locale: string, params?: Record<string, any>) => {
+  unstable_noStore(); // Disable cache globally
+
   try {
     const Language = typeof window !== "undefined" ? localStorage.getItem("language") || "ar" : "ar";
     const i18nextLng = typeof window !== "undefined" ? localStorage.getItem("i18nextLng") || "ar" : "ar";
@@ -21,7 +24,7 @@ const fetchData = async (endpoint: string, locale: string, params?: Record<strin
       headers: {
         "Content-Type": "application/json",
         "Accept-Language": locale,
-        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        "Cache-Control": "no-store",
         "Pragma": "no-cache",
         "Expires": "0"
       },
@@ -57,7 +60,7 @@ const fetchDataPages = async (endpoint: string, locale: string, params?: Record<
       headers: {
         "Content-Type": "application/json",
         "Accept-Language": locale,
-        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        "Cache-Control": "no-store",
         "Pragma": "no-cache",
         "Expires": "0"
       },
